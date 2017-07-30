@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html>
+  <head>
+<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+
+	<link rel="icon" type="image/png" sizes="96x96" href="favicon/favicon-96x96.png">
+
+	<link rel="manifest" href="favicon/manifest.json">
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="msapplication-TileImage" content="favicon/ms-icon-144x144.png">
+	<meta name="theme-color" content="#ffffff">
+  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+<!-- Load geocoding plugin after Leaflet -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet-geocoder-mapzen/1.9.2/leaflet-geocoder-mapzen.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-geocoder-mapzen/1.9.2/leaflet-geocoder-mapzen.js"></script>
+
+    <title>WAI Quality</title>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+<link rel="stylesheet" href="css/style.css" />
+
+    <link rel="stylesheet" href="http://libs.cartocdn.com/cartodb.js/v3/3.15/themes/css/cartodb.css" />
+
+
+
+
+  </head>
+  <body>
+
+
+
+
+<div id ='nav' style=" background-color: #00BCD3; color: white;">
+    <img src='WAI_.png' height="40px" style="float:left; padding-left:20px; padding-right:10px;">
+    <span style="float:left;">WAI Quality - Water Accessibility Index for Safe Swimming in Canterbury</span>
+    <span style="float:right; font-size:12px;">
+      <a href="index.html">Home</a> &nbsp; | &nbsp; <a href="about.html">About Project</a></span>
+</div >
+<div class="container">
+    <div id="map"></div>
+    <div id="sidebar">
+        <h2>Canterbury <br>Populated Areas</h2></p>
+<h4>Ranked by accessibility to swimmable locations</h4></p>
+<table style="width:100%;">
+  <tr>
+    <th><strong>#</strong></th>
+    <th><strong>Town</strong></th>
+    <th><strong>WAI<br>Index</strong></th>
+  </tr>
+  <tr class = 'tableRow' onclick="findPoint('Twizel')">
+    <td>1</td>
+    <td>Twizel</td>
+    <td>84</td>
+  </tr>
+  <tr class = 'tableRow' onclick="findPoint('Pleasant Point')">
+    <td>2</td>
+    <td>Pleasant Point</td>
+    <td>75</td>
+  </tr>
+  <tr class = 'tableRow' onclick="findPoint('Temuka')">
+    <td>3</td>
+    <td>Temuka</td>
+    <td>75</td>
+  </tr>
+  <tr class = 'tableRow' onclick="findPoint('Geraldine')">
+    <td>4</td>
+    <td>Geraldine</td>
+    <td>72</td>
+  </tr>
+  <tr class = 'tableRow' onclick="findPoint('Timaru')">
+    <td>5</td>
+    <td>Timaru</td>
+    <td>70</td>
+  </tr>
+  <tr class = 'tableRow' onclick="findPoint('Oxford')">
+    <td>6</td>
+    <td>Oxford</td>
+    <td>65</td>
+  </tr>
+  <tr class = 'tableRow' onclick="findPoint('Darfield')">
+    <td>7</td>
+    <td>Darfield</td>
+    <td>64</td>
+  </tr>
+  <tr class = 'tableRow' onclick="findPoint('Ashburton')">
+    <td>8</td>
+    <td>Ashburton</td>
+    <td>63</td>
+  </tr>
+  <tr class = 'tableRow' onclick="findPoint('Waimate')">
+    <td>9</td>
+    <td>Waimate</td>
+    <td>53</td>
+  </tr>
+  <tr class = 'tableRow' onclick="findPoint('Leeston')">
+    <td>10</td>
+    <td>Leeston</td>
+    <td>43</td>
+  </tr>
+  <tr class = 'tableRow' onclick="findPoint('Woodend')">
+    <td>11</td>
+    <td>Woodend</td>
+    <td>38</td>
+  </tr>
+  <tr class = 'tableRow' onclick="findPoint('Rangiora')">
+    <td>12</td>
+    <td>Rangiora</td>
+    <td>37</td>
+  </tr>
+  <tr class = 'tableRow' onclick="findPoint('Lincoln')">
+    <td>13</td>
+    <td>Lincoln</td>
+    <td>35</td>
+  </tr>
+  <tr class = 'tableRow' onclick="findPoint('Rolleston')">
+    <td>14</td>
+    <td>Rolleston</td>
+    <td>34</td>
+  </tr>
+  <tr class = 'tableRow' onclick="findPoint('Hanmer Springs')">
+    <td>15</td>
+    <td>Hanmer Springs</td>
+    <td>30</td>
+  </tr>
+  <tr class = 'tableRow' onclick="findPoint('Kaikoura')">
+    <td>16</td>
+    <td>Kaikoura</td>
+    <td>28</td>
+  </tr>
+  <tr class = 'tableRow' onclick="findPoint('Christchurch')">
+    <td>17</td>
+    <td>Christchurch</td>
+    <td>25</td>
+  </tr>
+    </div>
+</div>
+
+    <!-- include cartodb.js library -->
+    <script src="http://libs.cartocdn.com/cartodb.js/v3/3.15/cartodb.js"></script>
+<!-- Load geocoding plugin after Leaflet -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet-geocoder-mapzen/1.9.2/leaflet-geocoder-mapzen.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-geocoder-mapzen/1.9.2/leaflet-geocoder-mapzen.js"></script>
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://domoritz.github.io/leaflet-locatecontrol/dist/L.Control.Locate.min.css" />
+
+<script src="https://domoritz.github.io/leaflet-locatecontrol/dist/L.Control.Locate.min.js" charset="utf-8"></script>
+
+
+    <script>
+String.prototype.format = function() {
+  var str = this;
+  for (var i = 0; i < arguments.length; i++) {       
+    var reg = new RegExp("\\{" + i + "\\}", "gm");             
+    str = str.replace(reg, arguments[i]);
+  }
+  return str;
+}
+
+    var polygon;
+    var point;
+    var map;
+var sql = new cartodb.SQL({ user: 'thewabbit', format: 'geojson' });
+	function main() {
+		var selected
+		 map = new L.Map('map', {
+			center: [-43.545363, 172.543030],
+			zoom: 10
+		});
+
+		
+
+		var basemap = L.tileLayer('https://api.mapbox.com/styles/v1/andrewdc/cj5okq8ks021v2sr1yzomm22e/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiYW5kcmV3ZGMiLCJhIjoiY2o1b28zZWZxMDF2cDJ3cnhyY2RxdGZ4ZiJ9.Kdcss32Dpu5tYUFwk84Ixg', {
+			attribution: ''
+		}).addTo(map);
+
+var search = L.control.geocoder('mapzen-gwtGeLM').addTo(map);
+
+var locatie = L.control.locate().addTo(map);
+
+		cartodb.createLayer(map, {
+			//change your username below
+			user_name: 'thewabbit',
+			type: 'cartodb',
+			sublayers: [{
+			//change your sql below
+			sql: "SELECT * FROM towns",
+			//change your cartocss below. you can copy it from the CartoDB Editor and remove the line breaks.
+			cartocss: "#layer {  polygon-fill: ramp([ratingav], (#8c0000, #d47800, #c7aa1b, #37b90f), equal);  polygon-opacity: 0.52;}#layer::outline {  line-width: 1;  line-color: #FFF;  line-opacity: 0.5;}"
+			}]
+		})
+		.addTo(map).on('done', function(layer) {
+layer.setZIndex(10);
+                  var sublayer = layer.getSubLayer(0); 
+
+  
+          sublayer.setInteraction(true);
+
+          // sublayer.on('featureOver', function(e, pos, latlng, data) {
+          //   showFeature(data.cartodb_id)
+          //   console.log('yay')
+          // });
+
+
+  sublayer.on('featureClick', function(e, latlng, pos, data) {
+
+    });
+		})
+
+		cartodb.createLayer(map, {
+			//change your username below
+			user_name: 'thewabbit',
+			type: 'cartodb',
+			sublayers: [{
+			//change your sql below
+			sql: "SELECT * FROM swimming_water_quality_sites",
+			//change your cartocss below. you can copy it from the CartoDB Editor and remove the line breaks.
+			cartocss: '#layer {  marker-width: 10;  marker-fill: ramp([site_grade], (#00E51E,#2FAE16,#5F780F, #8F4107, ,#E57F00, #BF0B00, #000), ("Very good", "Good", "Fair", "Poor","Very poor", "Warning","Insufficient data"), "=");  marker-fill-opacity: 1;  marker-allow-overlap: true;  marker-line-width: 1;  marker-line-color: #FFF;  marker-line-opacity: 1;}'
+			}]
+		}).addTo(map).done(function(layer) {
+      layer.setZIndex(9999);
+            // add infowindow 
+            cartodb.vis.Vis.addInfowindow(map, layer.getSubLayer(0), ['display_na','site_grade','site_type','display_ar','rain_affec','site_sampl','site_id'])
+          });
+	}
+
+function findPoint(name){
+  // sql.execute("SELECT * FROM swimming_water_quality_sites WHERE display_na = {{display_na}}", {display_na:display_na}).done(function(geojson){
+    sql.execute("select * from towns where name = '"+name+ "'", {name: name} ).done(function(geojson) {
+    if (point){
+      map.removeLayer(point);
+    }
+            point = L.geoJson(geojson, { 
+              style: {
+                color: "#000",
+                weight: 2,
+                opacity: 0.65
+              } 
+            }).addTo(map)
+            map.fitBounds(point)
+            map.setZoom(10)
+
+  });
+}
+
+        function showFeature(cartodb_id) {
+          sql.execute("select * from mb_w_data_4 where cartodb_id = {{cartodb_id}}", {cartodb_id: cartodb_id} ).done(function(geojson) {
+            if (polygon) {
+              map.removeLayer(polygon);
+            }
+            polygon = L.geoJson(geojson, { 
+              style: {
+                color: "#000",
+                fillColor: "#fff",
+                weight: 2,
+                opacity: 0.65
+              }
+            }).addTo(map).done(function(layer) {
+  layer.setZIndex(5);
+})
+          });
+        }
+
+  main();
+
+</script>
+
+
+
+<div id='legend' class="cartodb-legend custom" style="right: calc(330px);">
+   <ul id="sortable2">
+      <li style="">
+         <div class="legend-title" style="font-size:14px; text-transform: none; ">
+            Swimming Quality Sites
+            <div> </div>
+         </div>
+      </li>
+      <li style="will-change: transform;" draggable="true" class="sortable-chosen sortable-ghost"> </li>
+      <li style="text-transform: none;" draggable="false" class="">
+         <div class="point bullet" style=" background: #00E51E; margin: 0 21px 0 12px;"></div>
+         Very Good 
+      </li>
+      <li style="text-transform: none;" draggable="false" class="">
+         <div class="point bullet" style=" background: #2FAE16; margin: 0 21px 0 12px;"></div>
+         Good
+      </li>
+      <li style="text-transform: none;" draggable="false" class="">
+         <div class="point bullet" style=" background: #5F780F; margin: 0 21px 0 12px;"></div>
+         Fair
+      </li>
+            <li style="text-transform: none;" draggable="false" class="">
+         <div class="point bullet" style=" background: #8F4107; margin: 0 21px 0 12px;"></div>
+         Poor
+      </li>
+            <li style="text-transform: none;" draggable="false" class="">
+         <div class="point bullet" style=" background: #E57F00; margin: 0 21px 0 12px;"></div>
+         Very poor
+      </li>
+            <li style="text-transform: none;" draggable="false" class="">
+         <div class="point bullet" style=" background: #BF0B00; margin: 0 21px 0 12px;"></div>
+         Warning
+      </li>
+       <li style="text-transform: none;" draggable="false" class="">
+         <div class="point bullet" style=" background: #000; margin: 0 21px 0 12px;"></div>
+         Insufficient data
+      </li>
+   </ul>
+<br><br>
+   <ul id="sortable2">
+      <li style="">
+         <div class="legend-title" style="font-size:14px; text-transform: none; ">
+            Town Index Rating
+            <br>
+         </div>
+      </li>
+  </ul>
+  <br>
+  Poor &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; High<br>
+   <div class="Legend-choropleth" style=" height:10px; opacity: 1 ; background: linear-gradient(90deg , #8c0000 , #d47800 , #c7aa1b , #37b90f)">
+  
+  <span class="Legend-choroplethAverage CDB-Text CDB-Size-small u-altTextColor" style="opacity: 1 ; left: 46.460618145563316%">
+  </span>
+</div>
+  
+</div>
+  
+
+
+  </body>
+</html>

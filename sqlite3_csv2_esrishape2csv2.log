@@ -1,0 +1,318 @@
+2017-07-29 19:40:16|   0.2|  0.2|INFORM|FME 2017.0.1.0 (20170428 - Build 17288 - macosx)
+2017-07-29 19:40:16|   0.2|  0.0|INFORM|FME_HOME is '/Library/FME/2017.0/'
+2017-07-29 19:40:16|   0.2|  0.0|INFORM|FME Database Edition (node locked-crc)
+2017-07-29 19:40:16|   0.2|  0.0|INFORM|Serial Number: 0
+2017-07-29 19:40:16|   0.2|  0.0|INFORM|Temporary License: 30 days left.
+2017-07-29 19:40:16|   0.2|  0.0|INFORM|Machine host name is: Hamishs-MacBook-Air.local
+2017-07-29 19:40:16|   0.2|  0.0|INFORM|START - ProcessID: 43191, peak process memory usage: 0 kB, current process memory usage: 112724 kB
+2017-07-29 19:40:16|   0.2|  0.0|INFORM|FME Configuration: Command line arguments are `/Library/FME/2017.0//bin/fme' `/Users/Hamish/Desktop/govhack/wb-xlate-1501314014462_37550' `LOG_STANDARDOUT' `YES' `LogCountServerName' `{00e9e9ac-8400-4f32-bc28-111469e6df30}'
+2017-07-29 19:40:16|   0.2|  0.0|INFORM|Shared folders for formats are : /Library/FME/2017.0/datasources;/Users/Hamish/Library/Application Support/FME/Formats
+2017-07-29 19:40:16|   0.2|  0.0|INFORM|Shared folders for transformers are : /Library/FME/2017.0/transformers;/Users/Hamish/Library/Application Support/FME/Transformers
+2017-07-29 19:40:16|   0.2|  0.0|INFORM|Shared folders for coordinate systems are : /Users/Hamish/Library/Application Support/FME/CoordinateSystems
+2017-07-29 19:40:16|   0.2|  0.0|INFORM|Shared folders for coordinate system exceptions are : /Users/Hamish/Library/Application Support/FME/CoordinateSystemExceptions
+2017-07-29 19:40:16|   0.2|  0.0|INFORM|Shared folders for coordinate system grid overrides are : /Users/Hamish/Library/Application Support/FME/CoordinateSystemGridOverrides
+2017-07-29 19:40:16|   0.2|  0.0|INFORM|Shared folders for CS-MAP transformation exceptions are : /Users/Hamish/Library/Application Support/FME/CsmapTransformationExceptions
+2017-07-29 19:40:16|   0.2|  0.0|INFORM|Shared folders for transformer categories are : /Users/Hamish/Library/Application Support/FME/TransformerCategories
+2017-07-29 19:40:16|   0.2|  0.0|INFORM|FME Configuration: Reader Keyword is `MULTI_READER'
+2017-07-29 19:40:16|   0.2|  0.0|INFORM|FME Configuration: Writer Keyword is `MULTI_WRITER'
+2017-07-29 19:40:16|   0.2|  0.0|INFORM|FME Configuration: Writer Group Definition Keyword is `MULTI_WRITER_DEF'
+2017-07-29 19:40:16|   0.2|  0.0|INFORM|FME Configuration: Reader type is `MULTI_READER'
+2017-07-29 19:40:16|   0.2|  0.0|INFORM|FME Configuration: Writer type is `MULTI_WRITER'
+2017-07-29 19:40:16|   0.2|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2017-07-29 19:40:16|   0.2|  0.0|INFORM|FME Configuration: Current working folder is `/Users/Hamish/Desktop/govhack'
+2017-07-29 19:40:16|   0.2|  0.0|INFORM|FME Configuration: Temporary folder is in the system location `/tmp'
+2017-07-29 19:40:16|   0.2|  0.0|INFORM|FME Configuration: FME_HOME is `/Library/FME/2017.0/'
+2017-07-29 19:40:16|   0.2|  0.0|INFORM|FME Configuration: FME_BASE is 'no'
+2017-07-29 19:40:16|   0.2|  0.0|INFORM|FME Configuration: FME_MF_DIR is '/Users/Hamish/Desktop/govhack/'
+2017-07-29 19:40:16|   0.2|  0.0|INFORM|FME Configuration: FME_MF_NAME is 'sqlite3_csv2_esrishape2csv2.fmw'
+2017-07-29 19:40:16|   0.2|  0.0|INFORM|FME Configuration: FME_PRODUCT_NAME is 'FME(R) 2017.0.1.0'
+2017-07-29 19:40:16|   0.2|  0.0|INFORM|System Status: 1.21 TB of disk space available in the FME temporary folder (/tmp)
+2017-07-29 19:40:16|   0.2|  0.0|INFORM|System Status: 13.07 GB of virtual memory available
+2017-07-29 19:40:16|   0.2|  0.0|INFORM|Operating System: Mac OS X Version 10.12.5 (Build 16F73)
+2017-07-29 19:40:16|   0.2|  0.0|INFORM|FME Platform: macosx
+2017-07-29 19:40:16|   0.2|  0.0|INFORM|The memory allocator being used by FME is : `/usr/lib/system/libsystem_malloc.dylib'
+2017-07-29 19:40:16|   0.2|  0.0|INFORM|Locale: en_NZ.UTF-8
+2017-07-29 19:40:16|   0.2|  0.0|INFORM|FME Configuration: Process limit is 8.00 GB of physical memory
+2017-07-29 19:40:16|   0.2|  0.0|INFORM|FME Configuration: Start freeing memory when process usage exceeds 11.89 GB of virtual memory
+2017-07-29 19:40:16|   0.2|  0.0|INFORM|FME Configuration: Stop freeing memory when process usage is below 8.92 GB of virtual memory
+2017-07-29 19:40:16|   0.2|  0.0|INFORM|Creating writer for format: 
+2017-07-29 19:40:16|   0.3|  0.0|INFORM|Creating reader for format: 
+2017-07-29 19:40:16|   0.3|  0.0|INFORM|MULTI_READER(MULTI_READER): Will fail with first member reader failure
+2017-07-29 19:40:16|   0.3|  0.0|INFORM|MULTI_READER(MULTI_READER): Adding CSV2 Reader with keyword CSV2_1
+2017-07-29 19:40:16|   0.3|  0.0|INFORM|MULTI_READER(MULTI_READER): Adding ESRISHAPE Reader with keyword ESRISHAPE_1
+2017-07-29 19:40:16|   0.3|  0.0|INFORM|MULTI_READER(MULTI_READER): Adding SQLITE3 Reader with keyword SQLITE3_1
+2017-07-29 19:40:16|   0.3|  0.0|INFORM|MULTI_READER(MULTI_READER): Adding ESRISHAPE Reader with keyword ESRISHAPE_2
+2017-07-29 19:40:16|   0.3|  0.0|INFORM|Using Multi Reader with keyword `MULTI_READER' to read multiple datasets
+2017-07-29 19:40:16|   0.3|  0.1|INFORM|Creating reader for format: CSV (Comma Separated Value)
+2017-07-29 19:40:16|   0.3|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `CSV2'
+2017-07-29 19:40:16|   0.3|  0.0|INFORM|DYLD_LIBRARY_PATH is not set
+2017-07-29 19:40:16|   0.3|  0.0|INFORM|Loaded module 'CSV2' from file '/Library/FME/2017.0/plugins/csv2.so'
+2017-07-29 19:40:16|   0.3|  0.0|INFORM|FME API version of module 'CSV2' matches current internal version (3.8 20170315)
+2017-07-29 19:40:16|   0.3|  0.0|INFORM|CSV reader: Opening dataset '/Users/Hamish/Desktop/govhack/output/Base_Index_Fair_and_above.csv'
+2017-07-29 19:40:16|   0.3|  0.0|INFORM|CSV reader: Directive '_DELIMITER' has the value ','
+2017-07-29 19:40:16|   0.3|  0.0|INFORM|CSV reader: Directive '_FIELD_NAMES_LINE' has the value '1'
+2017-07-29 19:40:16|   0.3|  0.0|INFORM|CSV reader: Directive '_DATA_START_LINE' has the value '2'
+2017-07-29 19:40:16|   0.3|  0.0|INFORM|CSV reader: Directive '_SCAN_MAX_ROWS' has the value '1000'
+2017-07-29 19:40:16|   0.3|  0.0|INFORM|CSV reader: Directive '_READ_SKIPPED_LINES' has the value 'No'
+2017-07-29 19:40:16|   0.3|  0.0|INFORM|CSV reader: Directive '_SKIP_DUPLICATE_DELIMITERS' has the value 'No'
+2017-07-29 19:40:16|   0.3|  0.0|INFORM|CSV reader: Directive '_FIELD_QUALIFIER_CHARACTER' has the value '"'
+2017-07-29 19:40:16|   0.3|  0.0|INFORM|CSV reader: Directive '_FIELD_QUALIFIER_ESCAPE_CHARACTER' has the value '"'
+2017-07-29 19:40:16|   0.3|  0.0|INFORM|CSV reader: Directive '_TRIM_FIELD_NAME_QUALIFIERS' has the value 'Yes'
+2017-07-29 19:40:16|   0.3|  0.0|INFORM|CSV reader: Directive '_TRIM_FIELD_VALUE_QUALIFIERS' has the value 'Yes'
+2017-07-29 19:40:16|   0.3|  0.0|INFORM|CSV reader: Directive '_PRESERVE_SOURCE_ENCODING' has the value 'No'
+2017-07-29 19:40:16|   0.3|  0.0|INFORM|CSV reader: Directive '_CASE_SENSITIVE_FIELD_NAMES' has the value 'Yes'
+2017-07-29 19:40:16|   0.3|  0.0|INFORM|CSV reader: Directive '_ENFORCE_STRICT_SCHEMA' has the value 'No'
+2017-07-29 19:40:16|   0.3|  0.0|INFORM|CSV reader: Directive '_SCAN_TYPES' has the value 'No'
+2017-07-29 19:40:16|   0.3|  0.0|INFORM|CSV reader: Directive '_SCAN_ADDITIONAL_FIELDS' has the value 'No'
+2017-07-29 19:40:16|   0.3|  0.0|INFORM|Using MultiWriter with keyword `MULTI_WRITER' to output data (ID_ATTRIBUTE is `multi_writer_id')
+2017-07-29 19:40:16|   0.3|  0.0|INFORM|Writer output will be ordered by value of multi_writer_id
+2017-07-29 19:40:17|   0.4|  0.0|INFORM|Loaded module 'LogCount_func' from file '/Library/FME/2017.0/plugins/logcount_func.so'
+2017-07-29 19:40:17|   0.4|  0.0|INFORM|FME API version of module 'LogCount_func' matches current internal version (3.8 20170315)
+2017-07-29 19:40:17|   0.4|  0.0|INFORM|Creating writer for format: FME Feature Store (FFS)
+2017-07-29 19:40:17|   0.4|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2017-07-29 19:40:17|   0.4|  0.0|INFORM|Loaded module 'JSONQueryFactory' from file '/Library/FME/2017.0/plugins/jsonqueryfactory.so'
+2017-07-29 19:40:17|   0.4|  0.0|INFORM|FME API version of module 'JSONQueryFactory' matches current internal version (3.8 20170315)
+2017-07-29 19:40:17|   0.5|  0.1|INFORM|Creating reader for format: Esri Shapefile
+2017-07-29 19:40:17|   0.6|  0.0|INFORM|Using Shape Reader to read shape files from folder `/Users/Hamish/Desktop/govhack/Data/Swimming_Water_Quality_Sites.zip Folder/'
+2017-07-29 19:40:17|   0.6|  0.0|INFORM|ESRISHAPE_1 Reader: Using enhanced geometry
+2017-07-29 19:40:17|   0.6|  0.0|INFORM|Shape Reader: Using simple donut geometry detection
+2017-07-29 19:40:17|   0.6|  0.0|INFORM|Shape Reader: Allowing attribute names with mixed case
+2017-07-29 19:40:17|   0.6|  0.0|INFORM|Opened Shape File '/Users/Hamish/Desktop/govhack/Data/Swimming_Water_Quality_Sites.zip Folder/Swimming_Water_Quality_Sites.shp' for input
+2017-07-29 19:40:17|   0.6|  0.0|INFORM|Opened DBF File '/Users/Hamish/Desktop/govhack/Data/Swimming_Water_Quality_Sites.zip Folder/Swimming_Water_Quality_Sites.dbf' for input
+2017-07-29 19:40:17|   0.6|  0.0|INFORM|DBF Reader: Detected character encoding `utf-8'
+2017-07-29 19:40:17|   0.6|  0.0|INFORM|DBF File '/Users/Hamish/Desktop/govhack/Data/Swimming_Water_Quality_Sites.zip Folder/Swimming_Water_Quality_Sites.dbf' has fields: OBJECTID number(10,0), SITE_ID char(80), DISPLAY_NA char(80), AREA_CODE char(80), SHOW_ON_MA char(80), SITE_TYPE char(80), SITE_GRADE char(80), RAIN_AFFEC char(80), SITE_NOT_S char(80), WARNING_TE char(254), NOTE_TEXT char(80), DISPLAY_AR char(80), DISPLAY_GR char(80), DISPLAY_LI char(80), NZMGX number(24,15), NZMGY number(24,15), NZMS260 char(80), NZTMX number(24,15), NZTMY number(24,15), NZTOPO50 char(80), WGS84_LONG number(24,15), WGS84_LATI number(24,15), SOURCECODE char(80), QARCODE number(10,0), CREATEDBY char(80), CREATEDDAT char(80), MODIFIEDBY char(80), MODIFIEDDA char(80), SITE_SAMPL char(80)
+2017-07-29 19:40:17|   0.9|  0.3|INFORM|The OGC definition of the FME coordinate system '_LL-WGS84_0' is 'GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137,298.257223563]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295]]'
+2017-07-29 19:40:17|   0.9|  0.0|INFORM|FME Configuration: Source coordinate system for reader ESRISHAPE_1[ESRISHAPE] set to `_LL-WGS84_0' as read from input data
+2017-07-29 19:40:17|   0.9|  0.0|INFORM|Coordinate System `_LL-WGS84_0' parameters: CS_NAME=`_LL-WGS84_0' DESC_NM=`WGS84 Lat/Longs' DT_NAME=`WGS84' ESRI_WKT=`GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137,298.257223563]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295]]' GROUP=`LL' MAP_SCL=`1' PROJ=`LL' QUAD=`1' SCL_RED=`1' UNIT=`DEGREE' 
+2017-07-29 19:40:17|   0.9|  0.0|INFORM|Shape Reader: Bounding box of shapefile `/Users/Hamish/Desktop/govhack/Data/Swimming_Water_Quality_Sites.zip Folder/SWIMMING_WATER_QUALITY_SITES' is: (169.84955142300402,-44.79455877643781),(173.75075204377467,-42.304983910441415)
+2017-07-29 19:40:17|   0.9|  0.0|INFORM|Shape Reader: Bounding box of shapefile(s) selected from folder `/Users/Hamish/Desktop/govhack/Data/Swimming_Water_Quality_Sites.zip Folder/' is: (169.84955142300402,-44.79455877643781),(173.75075204377467,-42.304983910441415)
+2017-07-29 19:40:17|   1.2|  0.3|INFORM|Creating reader for format: SQLite Non-Spatial
+2017-07-29 19:40:17|   1.2|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `SQLITE3'
+2017-07-29 19:40:17|   1.2|  0.0|INFORM|Loaded module 'SQLITE3' from file '/Library/FME/2017.0/plugins/sqlite3.so'
+2017-07-29 19:40:17|   1.2|  0.0|INFORM|FME API version of module 'SQLITE3' matches current internal version (3.8 20170315)
+2017-07-29 19:40:17|   1.2|  0.0|INFORM|SQLite 3 Reader: Opening `/Users/Hamish/Desktop/govhack/output/results.sl3' for read operation
+2017-07-29 19:40:19|   2.6|  1.4|INFORM|Reading source feature # 2500
+2017-07-29 19:40:21|   4.1|  1.5|INFORM|Reading source feature # 5000
+2017-07-29 19:40:23|   5.7|  1.5|INFORM|Reading source feature # 7500
+2017-07-29 19:40:25|   7.3|  1.6|INFORM|Reading source feature # 10000
+2017-07-29 19:40:27|   8.8|  1.5|INFORM|Reading source feature # 12500
+2017-07-29 19:40:29|  10.4|  1.6|INFORM|Reading source feature # 15000
+2017-07-29 19:40:30|  11.9|  1.4|INFORM|Reading source feature # 17500
+2017-07-29 19:40:32|  13.3|  1.4|INFORM|Reading source feature # 20000
+2017-07-29 19:40:34|  14.7|  1.4|INFORM|Reading source feature # 22500
+2017-07-29 19:40:36|  16.2|  1.5|INFORM|Reading source feature # 25000
+2017-07-29 19:40:38|  17.7|  1.5|INFORM|Reading source feature # 27500
+2017-07-29 19:40:39|  19.2|  1.5|INFORM|Reading source feature # 30000
+2017-07-29 19:40:41|  20.6|  1.4|INFORM|Reading source feature # 32500
+2017-07-29 19:40:43|  22.0|  1.4|INFORM|Reading source feature # 35000
+2017-07-29 19:40:45|  23.6|  1.6|INFORM|Reading source feature # 37500
+2017-07-29 19:40:47|  25.0|  1.5|INFORM|Reading source feature # 40000
+2017-07-29 19:40:49|  26.5|  1.5|INFORM|Reading source feature # 42500
+2017-07-29 19:40:51|  28.0|  1.5|INFORM|Reading source feature # 45000
+2017-07-29 19:40:52|  29.4|  1.4|INFORM|Reading source feature # 47500
+2017-07-29 19:40:54|  31.0|  1.5|INFORM|Reading source feature # 50000
+2017-07-29 19:40:55|  32.0|  1.0|INFORM|SQLite 3 Reader: Database read complete.  Retrieved 51616 feature(s)
+2017-07-29 19:40:55|  32.0|  0.0|INFORM|SQLite 3 Reader: Closing `/Users/Hamish/Desktop/govhack/output/results.sl3' . Read operation complete
+2017-07-29 19:40:55|  32.0|  0.0|INFORM|Creating reader for format: Esri Shapefile
+2017-07-29 19:40:55|  32.0|  0.0|INFORM|Using Shape Reader to read shape files from folder `/Users/Hamish/Desktop/govhack/Data/kx-nz-meshblocks-2006-census-SHP.zip Folder/'
+2017-07-29 19:40:55|  32.0|  0.0|INFORM|ESRISHAPE_2 Reader: Using enhanced geometry
+2017-07-29 19:40:55|  32.0|  0.0|INFORM|Shape Reader: Using simple donut geometry detection
+2017-07-29 19:40:55|  32.0|  0.0|INFORM|Shape Reader: Allowing attribute names with mixed case
+2017-07-29 19:40:55|  32.0|  0.0|INFORM|Opened Shape File '/Users/Hamish/Desktop/govhack/Data/kx-nz-meshblocks-2006-census-SHP.zip Folder/nz-meshblocks-2006-census.shp' for input
+2017-07-29 19:40:55|  32.0|  0.0|INFORM|Opened DBF File '/Users/Hamish/Desktop/govhack/Data/kx-nz-meshblocks-2006-census-SHP.zip Folder/nz-meshblocks-2006-census.dbf' for input
+2017-07-29 19:40:55|  32.0|  0.0|INFORM|DBF Reader: Detected character encoding `utf-8'
+2017-07-29 19:40:55|  32.0|  0.0|INFORM|DBF File '/Users/Hamish/Desktop/govhack/Data/kx-nz-meshblocks-2006-census-SHP.zip Folder/nz-meshblocks-2006-census.dbf' has fields: MB06 char(7), REGC06 char(2), CON06 char(4), MCON06 char(4), TA06 char(3), WARD06 char(5), CB06 char(5), TASUB06 char(5), AU06 char(6), UA06 char(3), GED02 char(3), MED02 char(1), TA06V2 char(3), WARD06V2 char(5), CB06V2 char(5), TASUB06V2 char(5)
+2017-07-29 19:40:55|  32.0|  0.0|INFORM|Predefined coordinate system `NZTM' (New Zealand Transverse Mercator NZGD2000) matches dataset coordinate system 
+2017-07-29 19:40:55|  32.0|  0.0|INFORM|The OGC definition of the FME coordinate system '_NZTM_0' is 'PROJCS["NZGD_2000_New_Zealand_Transverse_Mercator",GEOGCS["GCS_NZGD_2000",DATUM["D_NZGD_2000",SPHEROID["GRS_1980",6378137.0,298.257222101]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.017453292519943295]],PROJECTION["Transverse_Mercator"],PARAMETER["False_Easting",1600000.0],PARAMETER["False_Northing",10000000.0],PARAMETER["Central_Meridian",173.0],PARAMETER["Scale_Factor",0.9996],PARAMETER["Latitude_Of_Origin",0.0],UNIT["Meter",1.0]]'
+2017-07-29 19:40:55|  32.0|  0.0|INFORM|FME Configuration: Source coordinate system for reader ESRISHAPE_2[ESRISHAPE] set to `_NZTM_0' as read from input data
+2017-07-29 19:40:55|  32.0|  0.0|INFORM|Coordinate System `_NZTM_0' parameters: CS_NAME=`_NZTM_0' DESC_NM=`New Zealand Transverse Mercator NZGD2000' DT_NAME=`NZGD2000' ESRI_WKT=`PROJCS["NZGD_2000_New_Zealand_Transverse_Mercator",GEOGCS["GCS_NZGD_2000",DATUM["D_NZGD_2000",SPHEROID["GRS_1980",6378137.0,298.257222101]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.017453292519943295]],PROJECTION["Transverse_Mercator"],PARAMETER["False_Easting",1600000.0],PARAMETER["False_Northing",10000000.0],PARAMETER["Central_Meridian",173.0],PARAMETER["Scale_Factor",0.9996],PARAMETER["Latitude_Of_Origin",0.0],UNIT["Meter",1.0]]' GROUP=`AUSNZ' MAP_SCL=`1' MAX_LAT=`34' MAX_LNG=`179.5' MIN_LAT=`-48' MIN_LNG=`165.5' PARM1=`173' PROJ=`TM' QUAD=`1' SCL_RED=`0.99960000000000004' SOURCE=`Land Information New Zealand' UNIT=`METER' X_OFF=`1600000' Y_OFF=`10000000' ZERO_X=`0.0001' ZERO_Y=`0.0001' 
+2017-07-29 19:40:55|  32.0|  0.0|INFORM|Shape Reader: Bounding box of shapefile `/Users/Hamish/Desktop/govhack/Data/kx-nz-meshblocks-2006-census-SHP.zip Folder/NZ-MESHBLOCKS-2006-CENSUS' is: (1067061.1551500321,4701317.3015370555),(2114868.1430419395,6242140.2114904998)
+2017-07-29 19:40:55|  32.0|  0.0|INFORM|Shape Reader: Bounding box of shapefile(s) selected from folder `/Users/Hamish/Desktop/govhack/Data/kx-nz-meshblocks-2006-census-SHP.zip Folder/' is: (1067061.1551500321,4701317.3015370555),(2114868.1430419395,6242140.2114904998)
+2017-07-29 19:40:55|  32.0|  0.0|STATS |Storing feature(s) to FME feature store file `/tmp/sqlite3_csv2_esrishape2csv2_194016/inspector.ffs'
+2017-07-29 19:40:55|  32.0|  0.0|INFORM|MULTI_WRITER: Output will be zipped
+2017-07-29 19:40:55|  32.0|  0.0|INFORM|Creating writer for format: Esri Shapefile
+2017-07-29 19:40:55|  32.0|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2017-07-29 19:40:55|  32.0|  0.0|INFORM|Using Shape Writer to write shape files to folder `/tmp/_auto_zip_dataset_1501314055937_43191'
+2017-07-29 19:40:55|  32.0|  0.0|INFORM|Shape Writer: Allowing attribute names with mixed case
+2017-07-29 19:40:55|  32.0|  0.0|INFORM|Shape Writer: Enabling Strict compatibility
+2017-07-29 19:40:55|  32.0|  0.0|INFORM|Writer `ESRISHAPE_3' of type `ESRISHAPE' using group definition keyword `ESRISHAPE_3_DEF'
+2017-07-29 19:40:55|  32.0|  0.0|INFORM|Shape Writer: Writing shape file using character encoding `SYSTEM'
+2017-07-29 19:40:55|  32.0|  0.0|INFORM|Opened Shape File '/tmp/_auto_zip_dataset_1501314055937_43191/mb_w_data.shp' for output
+2017-07-29 19:40:55|  32.0|  0.0|INFORM|Opened DBF file '/tmp/_auto_zip_dataset_1501314055937_43191/mb_w_data.dbf' for output
+2017-07-29 19:40:55|  32.0|  0.0|INFORM|DBF Writer: Writing DBF file using character encoding `SYSTEM'
+2017-07-29 19:40:55|  32.0|  0.0|WARN  |The length of field 'popup_str' in DBF file '/tmp/_auto_zip_dataset_1501314055937_43191/mb_w_data.dbf' is greater than 254 -- 'char(1000)' -- values will be truncated to 254 characters
+2017-07-29 19:40:55|  32.0|  0.0|INFORM|Shape Writer: detected 2d dimension
+2017-07-29 19:40:56|  32.3|  0.3|INFORM|Reading source feature # 52500
+2017-07-29 19:40:57|  33.1|  0.7|INFORM|Reading source feature # 55000
+2017-07-29 19:40:57|  33.8|  0.8|INFORM|Reading source feature # 57500
+2017-07-29 19:40:58|  34.5|  0.7|INFORM|Reading source feature # 60000
+2017-07-29 19:40:59|  35.4|  0.8|INFORM|Reading source feature # 62500
+2017-07-29 19:41:00|  36.1|  0.7|INFORM|Reading source feature # 65000
+2017-07-29 19:41:01|  36.9|  0.8|INFORM|Reading source feature # 67500
+2017-07-29 19:41:02|  37.7|  0.8|INFORM|Reading source feature # 70000
+2017-07-29 19:41:03|  38.7|  1.0|INFORM|Reading source feature # 72500
+2017-07-29 19:41:05|  39.7|  1.0|INFORM|Reading source feature # 75000
+2017-07-29 19:41:06|  40.8|  1.0|INFORM|Reading source feature # 77500
+2017-07-29 19:41:07|  41.7|  0.9|INFORM|Reading source feature # 80000
+2017-07-29 19:41:08|  42.6|  0.9|INFORM|Reading source feature # 82500
+2017-07-29 19:41:09|  43.3|  0.7|INFORM|Reading source feature # 85000
+2017-07-29 19:41:10|  44.3|  1.0|INFORM|Reading source feature # 87500
+2017-07-29 19:41:11|  45.3|  0.9|INFORM|Reading source feature # 90000
+2017-07-29 19:41:12|  46.1|  0.8|INFORM|Reading source feature # 92500
+2017-07-29 19:41:13|  46.7|  0.6|INFORM|MULTI_READER(MULTI_READER): Done reading 94691 features from 4 readers
+2017-07-29 19:41:13|  46.7|  0.0|INFORM|Emptying factory pipeline
+2017-07-29 19:41:13|  46.7|  0.0|STATS |Router and Unexpected Input Remover(RoutingFactory): Tested 94781 input feature(s), wrote 94781 output feature(s): 94781 matched merge filters, 94781 were routed to output, 0 could not be routed.
+2017-07-29 19:41:13|  46.7|  0.0|STATS |Unexpected Input Remover Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-29 19:41:13|  46.7|  0.0|STATS |CSV (CSV2_1) Splitter(TeeFactory): Cloned 91 input feature(s) into 91 output feature(s)
+2017-07-29 19:41:13|  46.7|  0.0|STATS |CSV_CSV2_1 Feature Counter -1 27(TeeFactory): Cloned 91 input feature(s) into 91 output feature(s)
+2017-07-29 19:41:13|  46.7|  0.0|STATS |Swimming_Water_Quality_Sites (ESRISHAPE_1) Splitter(TeeFactory): Cloned 128 input feature(s) into 128 output feature(s)
+2017-07-29 19:41:13|  46.7|  0.0|STATS |Swimming_Water_Quality_Sites_ESRISHAPE_1 Feature Counter -1 29(TeeFactory): Cloned 128 input feature(s) into 128 output feature(s)
+2017-07-29 19:41:13|  46.7|  0.0|STATS |nz-meshblocks-2006-census (ESRISHAPE_2) Splitter(TeeFactory): Cloned 42946 input feature(s) into 42946 output feature(s)
+2017-07-29 19:41:13|  46.7|  0.0|STATS |nz-meshblocks-2006-census_ESRISHAPE_2 Feature Counter -1 28(TeeFactory): Cloned 42946 input feature(s) into 42946 output feature(s)
+2017-07-29 19:41:13|  46.7|  0.0|STATS |results (SQLITE3_1) Splitter(TeeFactory): Cloned 51616 input feature(s) into 51616 output feature(s)
+2017-07-29 19:41:13|  46.7|  0.0|STATS |results_SQLITE3_1 Feature Counter -1 26(TeeFactory): Cloned 51616 input feature(s) into 51616 output feature(s)
+2017-07-29 19:41:13|  46.7|  0.0|STATS |Tester(TestFactory): Tested 42946 input feature(s) -- 5168 feature(s) passed and 37778 feature(s) failed
+2017-07-29 19:41:13|  46.7|  0.0|STATS |Tester_PASSED Feature Counter -1 37(TeeFactory): Cloned 5168 input feature(s) into 5168 output feature(s)
+2017-07-29 19:41:13|  46.7|  0.0|STATS |AttributeManager_4_OUTPUT Feature Counter -1 41(TeeFactory): Cloned 5168 input feature(s) into 5168 output feature(s)
+2017-07-29 19:41:13|  46.7|  0.0|STATS |FeatureMerger_3(ReferenceFactory): Total Results: 51616 Complete Feature(s), 0 Incomplete Feature(s), 0 Referenced Feature(s), 0 Unreferenced Feature(s), 0 Referencer Feature(s) (NO REFERENCES), 0 Referencee Feature(s) (NO Referencee fields defined), and 0 Duplicate Referencee Feature(s)
+2017-07-29 19:41:13|  46.7|  0.0|STATS |FeatureMerger_3_MERGED Feature Counter -1 43(TeeFactory): Cloned 51616 input feature(s) into 51616 output feature(s)
+2017-07-29 19:41:13|  46.7|  0.0|STATS |FeatureMerger_3_<REJECTED> Feature Counter -1 2147876889(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-29 19:41:13|  46.7|  0.0|STATS |FeatureMerger_3_<Rejected>(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-29 19:41:13|  46.7|  0.0|STATS |JSONExtractor_EVALUATED Feature Counter -1 30(TeeFactory): Cloned 51616 input feature(s) into 51616 output feature(s)
+2017-07-29 19:41:13|  46.7|  0.0|STATS |JSONExtractor_<REJECTED> Feature Counter -1 2147680265(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-29 19:41:13|  46.7|  0.0|STATS |JSONExtractor_<Rejected>(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-29 19:41:13|  46.7|  0.0|STATS |AttributeManager_OUTPUT Feature Counter -1 32(TeeFactory): Cloned 51616 input feature(s) into 51616 output feature(s)
+2017-07-29 19:41:13|  46.7|  0.0|STATS |FeatureMerger(ReferenceFactory): Total Results: 14464 Complete Feature(s), 0 Incomplete Feature(s), 0 Referenced Feature(s), 0 Unreferenced Feature(s), 0 Referencer Feature(s) (NO REFERENCES), 0 Referencee Feature(s) (NO Referencee fields defined), and 0 Duplicate Referencee Feature(s)
+2017-07-29 19:41:13|  46.7|  0.0|STATS |FeatureMerger_MERGED Feature Counter -1 33(TeeFactory): Cloned 14464 input feature(s) into 14464 output feature(s)
+2017-07-29 19:41:13|  46.7|  0.0|STATS |FeatureMerger_<REJECTED> Feature Counter -1 2147876876(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-29 19:41:13|  46.7|  0.0|STATS |FeatureMerger_<Rejected>(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-29 19:41:13|  46.7|  0.0|STATS |AttributeManager_2_OUTPUT Feature Counter -1 49(TeeFactory): Cloned 14464 input feature(s) into 14464 output feature(s)
+2017-07-29 19:41:13|  46.7|  0.0|STATS |AttributeRounder(TestFactory): Tested 14464 input feature(s) -- 14464 feature(s) passed and 0 feature(s) failed
+2017-07-29 19:41:13|  46.7|  0.0|STATS |AttributeRounder_AttributeRounder(TeeFactory): Cloned 14464 input feature(s) into 14464 output feature(s)
+2017-07-29 19:41:13|  46.7|  0.0|STATS |AttributeRounder_OUTPUT Feature Counter -1 50(TeeFactory): Cloned 14464 input feature(s) into 14464 output feature(s)
+2017-07-29 19:41:13|  46.7|  0.0|STATS |AttributeRounder_<REJECTED> Feature Counter -1 2147680304(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-29 19:41:13|  46.7|  0.0|STATS |AttributeRounder_<Rejected>(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-29 19:41:13|  47.0|  0.2|STATS |FeatureMerger_2(ReferenceFactory): Total Results: 5046 Complete Feature(s), 122 Incomplete Feature(s), 0 Referenced Feature(s), 0 Unreferenced Feature(s), 0 Referencer Feature(s) (NO REFERENCES), 0 Referencee Feature(s) (NO Referencee fields defined), and 0 Duplicate Referencee Feature(s)
+2017-07-29 19:41:13|  47.0|  0.0|STATS |FeatureMerger_2_MERGED Feature Counter -1 38(TeeFactory): Cloned 5046 input feature(s) into 5046 output feature(s)
+2017-07-29 19:41:13|  47.0|  0.0|STATS |FeatureMerger_2_UNMERGED_REQUESTOR Feature Counter -1 56(TeeFactory): Cloned 122 input feature(s) into 122 output feature(s)
+2017-07-29 19:41:13|  47.0|  0.0|STATS |FeatureMerger_2_<REJECTED> Feature Counter -1 2147876879(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-29 19:41:13|  47.0|  0.0|STATS |FeatureMerger_2_<Rejected>(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-29 19:41:13|  47.0|  0.0|STATS |ListSorter(TeeFactory): Cloned 5046 input feature(s) into 5046 output feature(s)
+2017-07-29 19:41:13|  47.0|  0.0|STATS |ListSorter_OUTPUT Feature Counter -1 40(TeeFactory): Cloned 5046 input feature(s) into 5046 output feature(s)
+2017-07-29 19:41:13|  47.0|  0.0|STATS |AttributeManager_3_OUTPUT Feature Counter -1 39(TeeFactory): Cloned 5046 input feature(s) into 5046 output feature(s)
+2017-07-29 19:41:13|  47.0|  0.0|STATS |TestFilter(TeeFactory): Cloned 5046 input feature(s) into 5046 output feature(s)
+2017-07-29 19:41:13|  47.0|  0.0|STATS |TestFilter_TestFactory_0(TestFactory): Tested 5046 input feature(s) -- 2855 feature(s) passed and 2191 feature(s) failed
+2017-07-29 19:41:13|  47.0|  0.0|STATS |TestFilter_TestFactory_1(TestFactory): Tested 2191 input feature(s) -- 544 feature(s) passed and 1647 feature(s) failed
+2017-07-29 19:41:13|  47.0|  0.0|STATS |TestFilter_Three(TeeFactory): Cloned 1647 input feature(s) into 1647 output feature(s)
+2017-07-29 19:41:13|  47.0|  0.0|STATS |TestFilter_One Feature Counter -1 44(TeeFactory): Cloned 2855 input feature(s) into 2855 output feature(s)
+2017-07-29 19:41:13|  47.0|  0.0|STATS |TestFilter_Two Feature Counter -1 52(TeeFactory): Cloned 544 input feature(s) into 544 output feature(s)
+2017-07-29 19:41:13|  47.0|  0.0|STATS |TestFilter_Three Feature Counter -1 54(TeeFactory): Cloned 1647 input feature(s) into 1647 output feature(s)
+2017-07-29 19:41:13|  47.0|  0.0|STATS |AttributeCreator_3 OUTPUT Splitter(TeeFactory): Cloned 1647 input feature(s) into 3294 output feature(s)
+2017-07-29 19:41:13|  47.0|  0.0|STATS |AttributeCreator_3_OUTPUT_0_5wmj1QTDBCM= Feature Counter -1 46(TeeFactory): Cloned 1647 input feature(s) into 1647 output feature(s)
+2017-07-29 19:41:13|  47.0|  0.0|STATS |AttributeCreator_3_OUTPUT_1_1sMaJ5SQWdM= Feature Counter -1 57(TeeFactory): Cloned 1647 input feature(s) into 1647 output feature(s)
+2017-07-29 19:41:13|  47.0|  0.0|STATS |AttributeCreator_2 OUTPUT Splitter(TeeFactory): Cloned 544 input feature(s) into 1088 output feature(s)
+2017-07-29 19:41:13|  47.0|  0.0|STATS |AttributeCreator_2_OUTPUT_0_j0uI5yR3ojs= Feature Counter -1 53(TeeFactory): Cloned 544 input feature(s) into 544 output feature(s)
+2017-07-29 19:41:13|  47.0|  0.0|STATS |AttributeCreator_2_OUTPUT_1_RySErNGX5NA= Feature Counter -1 61(TeeFactory): Cloned 544 input feature(s) into 544 output feature(s)
+2017-07-29 19:41:13|  47.0|  0.0|STATS |AttributeCreator OUTPUT Splitter(TeeFactory): Cloned 2855 input feature(s) into 5710 output feature(s)
+2017-07-29 19:41:13|  47.0|  0.0|STATS |AttributeCreator_OUTPUT_0_lQ+3mj5tm0E= Feature Counter -1 42(TeeFactory): Cloned 2855 input feature(s) into 2855 output feature(s)
+2017-07-29 19:41:13|  47.0|  0.0|STATS |AttributeCreator_OUTPUT_1_Et/p63Aqn4M= Feature Counter -1 59(TeeFactory): Cloned 2855 input feature(s) into 2855 output feature(s)
+2017-07-29 19:41:13|  47.0|  0.0|STATS |AttributeManager_5 OUTPUT Splitter(TeeFactory): Cloned 5168 input feature(s) into 10336 output feature(s)
+2017-07-29 19:41:13|  47.0|  0.0|STATS |AttributeManager_5_OUTPUT_0_vzhqumH0PPo= Feature Counter -1 60(TeeFactory): Cloned 5168 input feature(s) into 5168 output feature(s)
+2017-07-29 19:41:13|  47.0|  0.0|STATS |AttributeManager_5_OUTPUT_1_pnKpRNjxUsc= Feature Counter -1 63(TeeFactory): Cloned 5168 input feature(s) into 5168 output feature(s)
+2017-07-29 19:41:13|  47.0|  0.0|STATS |TestFilter_Two_DirCreator(CreationFactory): Created 1 features
+2017-07-29 19:41:13|  47.0|  0.0|STATS |TestFilter_Two_DirCreatorCleanerUpper(TeeFactory): Cloned 1 input feature(s) into 0 output feature(s)
+2017-07-29 19:41:13|  47.0|  0.0|STATS |TestFilter_Two_FeatureDirector(TestFactory): Tested 5046 input feature(s) -- 0 feature(s) passed and 5046 feature(s) failed
+2017-07-29 19:41:13|  47.0|  0.0|STATS |TestFilter_Two___FeatureDirector1(TestFactory): Tested 5046 input feature(s) -- 0 feature(s) passed and 5046 feature(s) failed
+2017-07-29 19:41:13|  47.0|  0.0|STATS |TestFilter_Two_VectorSetterUpper(TeeFactory): Cloned 5046 input feature(s) into 5046 output feature(s)
+2017-07-29 19:41:13|  47.0|  0.0|STATS |TestFilter_Two___PointCloudThinner(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-29 19:41:13|  47.0|  0.0|STATS |TestFilter_Two_RasterSetterUpper(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-29 19:41:13|  47.0|  0.0|INFORM|Saving spatial index into file '/tmp/sqlite3_csv2_esrishape2csv2_194016/inspector.fsi'
+2017-07-29 19:41:13|  47.0|  0.0|INFORM|Finished saving spatial index into file '/tmp/sqlite3_csv2_esrishape2csv2_194016/inspector.fsi'
+2017-07-29 19:41:13|  47.0|  0.0|STATS |Stored 5046 feature(s) to FME feature store file `/tmp/sqlite3_csv2_esrishape2csv2_194016/inspector.ffs'
+2017-07-29 19:41:13|  47.0|  0.0|INFORM|TestFilter_Two_Recorder(RecorderFactory): Recorded 5046 feature(s) to file `/tmp/sqlite3_csv2_esrishape2csv2_194016/inspector.ffs'
+2017-07-29 19:41:13|  47.0|  0.0|STATS |Destination Feature Type Routing Correlator(RoutingFactory): Tested 10336 input feature(s), wrote 10336 output feature(s): 0 matched merge filters, 10336 were routed to output, 0 could not be routed.
+2017-07-29 19:41:13|  47.0|  0.0|STATS |Final Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-07-29 19:41:13|  47.0|  0.0|STATS |f_77(CreationFactory): Created 1 features
+2017-07-29 19:41:13|  47.0|  0.0|STATS |f_78(TeeFactory): Cloned 1 input feature(s) into 0 output feature(s)
+2017-07-29 19:41:13|  47.0|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-07-29 19:41:13|  47.0|  0.0|INFORM|Feature output statistics for `FFS' writer using keyword `W_1':
+2017-07-29 19:41:13|  47.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-07-29 19:41:13|  47.0|  0.0|STATS |                               Features Written
+2017-07-29 19:41:13|  47.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-07-29 19:41:13|  47.0|  0.0|STATS |==============================================================================
+2017-07-29 19:41:13|  47.0|  0.0|STATS |Total Features Written                                                       0
+2017-07-29 19:41:13|  47.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-07-29 19:41:13|  47.0|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-07-29 19:41:13|  47.0|  0.0|INFORM|Feature output statistics for `ESRISHAPE' writer using keyword `ESRISHAPE_3':
+2017-07-29 19:41:13|  47.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-07-29 19:41:13|  47.0|  0.0|STATS |                               Features Written
+2017-07-29 19:41:13|  47.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-07-29 19:41:13|  47.0|  0.0|STATS |mb_w_data (mb_w_data)                                                     5168
+2017-07-29 19:41:13|  47.0|  0.0|STATS |==============================================================================
+2017-07-29 19:41:13|  47.0|  0.0|STATS |Total Features Written                                                    5168
+2017-07-29 19:41:13|  47.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-07-29 19:41:13|  47.0|  0.0|INFORM|MULTI_WRITER: multi_writer_id `1': Started outputting features
+2017-07-29 19:41:13|  47.0|  0.0|INFORM|Creating writer for format: Google KML
+2017-07-29 19:41:13|  47.1|  0.0|INFORM|Trying to find a DYNAMIC plugin for writer named `OGCKML'
+2017-07-29 19:41:13|  47.1|  0.0|INFORM|Loaded module 'OGCKML' from file '/Library/FME/2017.0/plugins/kml21.so'
+2017-07-29 19:41:13|  47.1|  0.0|INFORM|FME API version of module 'OGCKML' matches current internal version (3.8 20170315)
+2017-07-29 19:41:13|  47.1|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2017-07-29 19:41:13|  47.1|  0.0|INFORM|FME API version of module 'OGCKML' matches current internal version (3.8 20170315)
+2017-07-29 19:41:13|  47.1|  0.0|INFORM|Writer `OGCKML_1' of type `OGCKML' using group definition keyword `OGCKML_1_DEF'
+2017-07-29 19:41:13|  47.1|  0.0|INFORM|FME API version of module 'OGCKML' matches current internal version (3.8 20170315)
+2017-07-29 19:41:13|  47.1|  0.0|INFORM|KML: Initializing KML21 preferences...
+2017-07-29 19:41:13|  47.1|  0.0|INFORM|KML: Initializing dataset `/Users/Hamish/Desktop/govhack/output/mb_w_data.kml'...
+2017-07-29 19:41:13|  47.2|  0.0|INFORM|KML: Created `500' KML nodes.
+2017-07-29 19:41:13|  47.2|  0.0|INFORM|KML: Created `1000' KML nodes.
+2017-07-29 19:41:13|  47.2|  0.0|INFORM|MULTI_WRITER: multi_writer_id `1': Writing feature 1000 
+2017-07-29 19:41:13|  47.2|  0.0|INFORM|KML: Created `1500' KML nodes.
+2017-07-29 19:41:13|  47.2|  0.0|INFORM|KML: Created `2000' KML nodes.
+2017-07-29 19:41:13|  47.2|  0.0|INFORM|MULTI_WRITER: multi_writer_id `1': Writing feature 2000 
+2017-07-29 19:41:13|  47.3|  0.0|INFORM|KML: Created `2500' KML nodes.
+2017-07-29 19:41:13|  47.3|  0.0|INFORM|KML: Created `3000' KML nodes.
+2017-07-29 19:41:13|  47.3|  0.0|INFORM|MULTI_WRITER: multi_writer_id `1': Writing feature 3000 
+2017-07-29 19:41:13|  47.3|  0.0|INFORM|KML: Created `3500' KML nodes.
+2017-07-29 19:41:13|  47.4|  0.0|INFORM|KML: Created `4000' KML nodes.
+2017-07-29 19:41:13|  47.4|  0.0|INFORM|MULTI_WRITER: multi_writer_id `1': Writing feature 4000 
+2017-07-29 19:41:13|  47.4|  0.0|INFORM|KML: Created `4500' KML nodes.
+2017-07-29 19:41:13|  47.4|  0.0|INFORM|KML: Created `5000' KML nodes.
+2017-07-29 19:41:13|  47.4|  0.0|INFORM|MULTI_WRITER: multi_writer_id `1': Writing feature 5000 
+2017-07-29 19:41:13|  47.4|  0.0|INFORM|KML: Writing dataset to filesystem...
+2017-07-29 19:41:14|  47.4|  0.0|INFORM|FME Configuration: Using FME Reprojection Engine
+2017-07-29 19:41:14|  47.4|  0.0|INFORM|CS-MAP Reprojector: Transformation will be automatically selected for '_NZTM_0' -> 'LL-WGS84', and is not guaranteed to remain the same in future releases of FME
+2017-07-29 19:41:14|  47.5|  0.0|INFORM|Reprojector: Using transformation `NZGD2000_to_WGS84,Forward(Null,EPSG:1565)' when reprojecting from _NZTM_0 to LL-WGS84
+2017-07-29 19:41:23|  53.2|  5.7|INFORM|KML: Finished writing dataset to filesystem
+2017-07-29 19:41:23|  53.4|  0.2|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-07-29 19:41:23|  53.4|  0.0|INFORM|Feature output statistics for `OGCKML' writer using keyword `OGCKML_1':
+2017-07-29 19:41:23|  53.4|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-07-29 19:41:23|  53.4|  0.0|STATS |                               Features Written
+2017-07-29 19:41:23|  53.4|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-07-29 19:41:23|  53.4|  0.0|STATS |mb_w_data_kml                                                             5168
+2017-07-29 19:41:23|  53.4|  0.0|STATS |==============================================================================
+2017-07-29 19:41:23|  53.4|  0.0|STATS |Total Features Written                                                    5168
+2017-07-29 19:41:23|  53.4|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-07-29 19:41:23|  53.4|  0.0|INFORM|MULTI_WRITER: multi_writer_id `1': done writing 5168 feature(s) 
+2017-07-29 19:41:23|  53.4|  0.0|INFORM|^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2017-07-29 19:41:23|  53.4|  0.0|INFORM|MULTI_WRITER: multi_writer_id `ESRISHAPE_3': Zipping contents of temporary dataset `/tmp/_auto_zip_dataset_1501314055937_43191' into output zip file `/Users/Hamish/Desktop/govhack/output/output.zip'
+2017-07-29 19:41:24|  54.1|  0.8|INFORM|MULTI_WRITER: multi_writer_id `ESRISHAPE_3': Finished updating output zip file `/Users/Hamish/Desktop/govhack/output/output.zip'
+2017-07-29 19:41:24|  54.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-07-29 19:41:24|  54.1|  0.0|STATS |                            Features Read Summary
+2017-07-29 19:41:24|  54.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-07-29 19:41:24|  54.1|  0.0|STATS |CSV                                                                         91
+2017-07-29 19:41:24|  54.1|  0.0|STATS |Swimming_Water_Quality_Sites                                               128
+2017-07-29 19:41:24|  54.1|  0.0|STATS |nz-meshblocks-2006-census                                                42946
+2017-07-29 19:41:24|  54.1|  0.0|STATS |results                                                                  51616
+2017-07-29 19:41:24|  54.1|  0.0|STATS |==============================================================================
+2017-07-29 19:41:24|  54.1|  0.0|STATS |Total Features Read                                                      94781
+2017-07-29 19:41:24|  54.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-07-29 19:41:24|  54.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-07-29 19:41:24|  54.1|  0.0|STATS |                           Features Written Summary
+2017-07-29 19:41:24|  54.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-07-29 19:41:24|  54.1|  0.0|STATS |mb_w_data                                                                 5168
+2017-07-29 19:41:24|  54.1|  0.0|STATS |mb_w_data_kml                                                             5168
+2017-07-29 19:41:24|  54.1|  0.0|STATS |==============================================================================
+2017-07-29 19:41:24|  54.1|  0.0|STATS |Total Features Written                                                   10336
+2017-07-29 19:41:24|  54.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-07-29 19:41:24|  54.2|  0.0|INFORM|Translation was SUCCESSFUL with 1 warning(s) (10336 feature(s) output)
+2017-07-29 19:41:24|  54.2|  0.0|INFORM|FME Session Duration: 1 minute 8.1 seconds. (CPU: 49.2s user, 4.7s system)
+2017-07-29 19:41:24|  54.2|  0.0|INFORM|END - ProcessID: 43191, peak process memory usage: 0 kB, current process memory usage: 243472 kB

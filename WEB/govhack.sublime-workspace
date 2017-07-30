@@ -1,0 +1,938 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"cons",
+				"console.log\t(index.html)"
+			],
+			[
+				"flae",
+				"setFromAxisAngle"
+			],
+			[
+				"nor",
+				"normPixels"
+			],
+			[
+				"normP",
+				"normPixels.push"
+			],
+			[
+				"wit",
+				"width"
+			],
+			[
+				"DEM",
+				"DEMwidth"
+			],
+			[
+				"s",
+				"script"
+			],
+			[
+				"De",
+				"DEMwidth"
+			],
+			[
+				"terr",
+				"terrainURL"
+			],
+			[
+				"fCo",
+				"fCountQueryTask"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"backg",
+				"background-image"
+			],
+			[
+				"conso",
+				"console.log"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"Pr",
+				"ProfileDetailId"
+			],
+			[
+				"up",
+				"uploadLocation"
+			],
+			[
+				"tme",
+				"tempFolder"
+			],
+			[
+				"ser",
+				"serviceResponse"
+			],
+			[
+				"show",
+				"showResults"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"fi",
+				"files"
+			],
+			[
+				"fil",
+				"fileInput"
+			],
+			[
+				"st",
+				"Styles"
+			],
+			[
+				"y",
+				"ymax\t(extent.json)"
+			],
+			[
+				"get",
+				"getQueryParams"
+			],
+			[
+				"Risk_R",
+				"Risk_Rating"
+			],
+			[
+				"par",
+				"parameters"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"posi",
+				"positionData"
+			],
+			[
+				"Rot",
+				"Route"
+			],
+			[
+				"id",
+				"id=\"API_Key"
+			],
+			[
+				"test",
+				"testing"
+			],
+			[
+				"remov",
+				"removeLayer"
+			],
+			[
+				"AP",
+				"API_load"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"Spa",
+				"SpatialReference"
+			],
+			[
+				"bus",
+				"busgrpahic"
+			],
+			[
+				"Grap",
+				"GraphicsLayer"
+			],
+			[
+				"Simpl",
+				"SimpleMarkerSymbol"
+			],
+			[
+				"Poi",
+				"PointSymbol"
+			],
+			[
+				"Sim",
+				"SimpleRenderer"
+			],
+			[
+				"Gr",
+				"Graphic"
+			],
+			[
+				"Gra",
+				"GraphicsLayer"
+			],
+			[
+				"long",
+				"longitude\t(index.html)"
+			],
+			[
+				"API",
+				"API_Valid"
+			],
+			[
+				"A",
+				"API_key"
+			],
+			[
+				"api_",
+				"API_input"
+			],
+			[
+				"pos",
+				"positionData"
+			],
+			[
+				"ma",
+				"markers"
+			],
+			[
+				"makr",
+				"markers"
+			],
+			[
+				"mark",
+				"markers"
+			],
+			[
+				"lon",
+				"long"
+			],
+			[
+				"la",
+				"lat"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"exten",
+				"extentBounding"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"L",
+				"LGATrow"
+			],
+			[
+				"to",
+				"toLowerCase"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"ge",
+				"get"
+			],
+			[
+				"docume",
+				"documents"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "js/scripts.js",
+			"settings":
+			{
+				"buffer_size": 2174,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ftpsync.settings",
+			"settings":
+			{
+				"buffer_size": 3051,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "script.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "var mymap = L.map('mapid').setView([51.505, -0.09]"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 11050,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "{\"response\":{\"metaInfo\":{\"timestamp\":\"2017-07-28T21:12:30Z\",\"mapVersion\":\"8.30.70.153\",\"moduleVersion\":\"7.2.201725-139235\",\"interfaceVersion\":\"2.6.34\",\"availableMapVersion\":[\"8.30.70.153\"]},\"route\":[{\"waypoint\":[{\"linkId\":\"+736857958\",\"mappedPosition\":{\"latitude\":-44.4346333,\"longitude\":170.8709407},\"originalPosition\":{\"latitude\":-44.4348788,\"longitude\":170.8407863},\"type\":\"stopOver\",\"spot\":0.0,\"sideOfStreet\":\"neither\",\"mappedRoadName\":\"Mount Nimrod Rd\",\"label\":\"Mount Nimrod Rd\",\"shapeIndex\":0},{\"linkId\":\"-1185556636\",\"mappedPosition\":{\"latitude\":-44.5229101,\"longitude\":170.9294987},\"originalPosition\":{\"latitude\":-44.5216767,\"longitude\":170.9295595},\"type\":\"stopOver\",\"spot\":0.0,\"sideOfStreet\":\"neither\",\"mappedRoadName\":\"Back Line Rd\",\"label\":\"Back Line Rd\",\"shapeIndex\":101}],\"mode\":{\"type\":\"fastest\",\"transportModes\":[\"car\"],\"trafficMode\":\"disabled\",\"feature\":[]},\"leg\":[{\"start\":{\"linkId\":\"+736857958\",\"mappedPosition\":{\"latitude\":-44.4346333,\"longitude\":170.8709407},\"originalPosition\":{\"latitude\":-44.4348788,\"longitude\":170.8407863},\"type\":\"stopOver\",\"spot\":0.0,\"sideOfStreet\":\"neither\",\"mappedRoadName\":\"Mount Nimrod Rd\",\"label\":\"Mount Nimrod Rd\",\"shapeIndex\":0},\"end\":{\"linkId\":\"-1185556636\",\"mappedPosition\":{\"latitude\":-44.5229101,\"longitude\":170.9294987},\"originalPosition\":{\"latitude\":-44.5216767,\"longitude\":170.9295595},\"type\":\"stopOver\",\"spot\":0.0,\"sideOfStreet\":\"neither\",\"mappedRoadName\":\"Back Line Rd\",\"label\":\"Back Line Rd\",\"shapeIndex\":101},\"length\":25971,\"travelTime\":2014,\"maneuver\":[{\"position\":{\"latitude\":-44.4346333,\"longitude\":170.8709407},\"instruction\":\"Head toward <span class=\\\"toward_street\\\">Back Line Rd</span> on <span class=\\\"street\\\">Mount Nimrod Rd</span>. <span class=\\\"distance-description\\\">Go for <span class=\\\"length\\\">1.0 km</span>.</span>\",\"travelTime\":90,\"length\":1006,\"id\":\"M1\",\"_type\":\"PrivateTransportManeuverType\"},{\"position\":{\"latitude\":-44.4274557,\"longitude\":170.8786762},\"instruction\":\"Turn <span class=\\\"direction\\\">right</span> onto <span class=\\\"next-street\\\">Back Line Rd</span>. <span class=\\\"distance-description\\\">Go for <span class=\\\"length\\\">6.0 km</span>.</span>\",\"travelTime\":458,\"length\":5963,\"id\":\"M2\",\"_type\":\"PrivateTransportManeuverType\"},{\"position\":{\"latitude\":-44.4692123,\"longitude\":170.8939648},\"instruction\":\"Keep <span class=\\\"direction\\\">left</span> onto <span class=\\\"next-street\\\">Elders Rd</span>. <span class=\\\"distance-description\\\">Go for <span class=\\\"length\\\">5.4 km</span>.</span>\",\"travelTime\":411,\"length\":5381,\"id\":\"M3\",\"_type\":\"PrivateTransportManeuverType\"},{\"position\":{\"latitude\":-44.4555438,\"longitude\":170.9587562},\"instruction\":\"Turn <span class=\\\"direction\\\">slightly right</span> onto <span class=\\\"next-street\\\">Timaunga Rd</span>. <span class=\\\"distance-description\\\">Go for <span class=\\\"length\\\">1.4 km</span>.</span>\",\"travelTime\":117,\"length\":1353,\"id\":\"M4\",\"_type\":\"PrivateTransportManeuverType\"},{\"position\":{\"latitude\":-44.4610369,\"longitude\":170.9739482},\"instruction\":\"Turn <span class=\\\"direction\\\">right</span> onto <span class=\\\"next-street\\\">Middle Yards Rd</span>. <span class=\\\"distance-description\\\">Go for <span class=\\\"length\\\">4.4 km</span>.</span>\",\"travelTime\":337,\"length\":4387,\"id\":\"M5\",\"_type\":\"PrivateTransportManeuverType\"},{\"position\":{\"latitude\":-44.4776559,\"longitude\":170.9260976},\"instruction\":\"Turn <span class=\\\"direction\\\">slightly right</span> onto <span class=\\\"next-street\\\">Middle Yards Rd</span>. <span class=\\\"distance-description\\\">Go for <span class=\\\"length\\\">2.7 km</span>.</span>\",\"travelTime\":203,\"length\":2659,\"id\":\"M6\",\"_type\":\"PrivateTransportManeuverType\"},{\"position\":{\"latitude\":-44.4897687,\"longitude\":170.9000158},\"instruction\":\"Turn <span class=\\\"direction\\\">left</span> onto <span class=\\\"next-street\\\">Back Line Rd</span>. <span class=\\\"distance-description\\\">Go for <span class=\\\"length\\\">1.6 km</span>.</span>\",\"travelTime\":124,\"length\":1623,\"id\":\"M7\",\"_type\":\"PrivateTransportManeuverType\"},{\"position\":{\"latitude\":-44.4997036,\"longitude\":170.9092963},\"instruction\":\"Turn <span class=\\\"direction\\\">left</span> onto <span class=\\\"next-street\\\">Back Line Rd</span>. <span class=\\\"distance-description\\\">Go for <span class=\\\"length\\\">3.6 km</span>.</span>\",\"travelTime\":274,\"length\":3599,\"id\":\"M8\",\"_type\":\"PrivateTransportManeuverType\"},{\"position\":{\"latitude\":-44.5229101,\"longitude\":170.9294987},\"instruction\":\"Arrive at <span class=\\\"street\\\">Back Line Rd</span>.\",\"travelTime\":0,\"length\":0,\"id\":\"M9\",\"_type\":\"PrivateTransportManeuverType\"}]}],\"summary\":{\"distance\":25971,\"trafficTime\":2014,\"baseTime\":2014,\"flags\":[\"dirtRoad\",\"noThroughRoad\"],\"text\":\"The trip takes <span class=\\\"length\\\">26.0 km</span> and <span class=\\\"time\\\">34 mins</span>.\",\"travelTime\":2014,\"_type\":\"RouteSummaryType\"}}],\"language\":\"en-us\"}}\n",
+			"settings":
+			{
+				"buffer_size": 4787,
+				"line_ending": "Unix",
+				"name": "{\"response\":{\"metaInfo\":{\"timestamp\":\"2017-07-28T2"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n\n    <title>Bootstrap 3, from LayoutIt!</title>\n\n    <meta name=\"description\" content=\"Source code generated using layoutit.com\">\n    <meta name=\"author\" content=\"LayoutIt!\">\n\n    <link href=\"css/bootstrap.min.css\" rel=\"stylesheet\">\n    <link href=\"css/style.css\" rel=\"stylesheet\">\n\n  </head>\n  <body>\n\n<div class=\"container-fluid\">\n\t<div class=\"row\">\n\t\t<div class=\"col-md-12\">\n\t\t\t<h3 class=\"text-left\">\n\t\t\t\th3. Lorem ipsum dolor sit amet.\n\t\t\t</h3>\n\t\t</div>\n\t</div>\n\t<div class=\"row\">\n\t\t<div class=\"col-md-8\">\n\t\t</div>\n\t\t<div class=\"col-md-4\">\n\t\t</div>\n\t</div>\n</div>\n\n    <script src=\"js/jquery.min.js\"></script>\n    <script src=\"js/bootstrap.min.js\"></script>\n    <script src=\"js/scripts.js\"></script>\n  </body>\n</html>",
+			"file": "index 2.html",
+			"file_size": 2747,
+			"file_write_time": 131457796550000000,
+			"settings":
+			{
+				"buffer_size": 921,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"packagere",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 615.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Hamish/Desktop/govhack/WEB",
+		"/Users/Hamish/Desktop/govhack/WEB/js"
+	],
+	"file_history":
+	[
+		"/Users/Hamish/Desktop/govhack/WEB/index1.html",
+		"/Users/Hamish/Desktop/govhack/WEB/index.html",
+		"/Users/Hamish/Desktop/govhack/WEB/style.css",
+		"/Users/Hamish/Desktop/3D slips/Web/plane.html",
+		"/Users/Hamish/Desktop/3D slips/Web/landscape/js/app.js",
+		"/Users/Hamish/Desktop/3D slips/Web/landscape/index.html",
+		"/Users/Hamish/Desktop/3D slips/Web/index.html",
+		"/Users/Hamish/Downloads/vr-interactives-three-js-master.1/three-demo-complete.html",
+		"/C/Users/hamish/Desktop/WebAppBuilderForArcGIS/WebAppBuilderForArcGIS/server/apps/2/widgets/ExtentNavigate/css/style.css",
+		"/C/Users/hamish/Desktop/WebAppBuilderForArcGIS/WebAppBuilderForArcGIS/server/apps/2/widgets/HomeButton/css/style.css",
+		"/C/Users/hamish/Desktop/WebAppBuilderForArcGIS/WebAppBuilderForArcGIS/server/apps/2/widgets/ZoomSlider/css/style.css",
+		"/C/Users/hamish/Desktop/WebAppBuilderForArcGIS/WebAppBuilderForArcGIS/server/apps/2/widgets/Search/css/style.css",
+		"/C/Users/hamish/Desktop/WebAppBuilderForArcGIS/WebAppBuilderForArcGIS/server/apps/2/widgets/GoogleAnalytics/Widget.js",
+		"/C/Users/hamish/Desktop/WebAppBuilderForArcGIS/WebAppBuilderForArcGIS/server/apps/2/jimu.js/css/jimu-theme.css",
+		"/C/Users/hamish/Desktop/WebAppBuilderForArcGIS/WebAppBuilderForArcGIS/server/apps/2/widgets/Print/Print.js",
+		"/C/Users/hamish/Desktop/WebAppBuilderForArcGIS/WebAppBuilderForArcGIS/server/apps/2/widgets/MyLocation/css/style.css",
+		"/C/Users/hamish/Documents/TAC-J001/GIS/WebAppBuilderForArcGIS/server/apps/7/widgets/HeatMap/config.json",
+		"//WEBSERVERDEV/WebserverDev_inetpub/dev1.interpret.co.nz/Speed_Demonstration/Map/js/config/viewer.js",
+		"//webserverprod/tac.interpret.co.nz/crashviewer/configs/LocalLayer/Admin_layers.json",
+		"//WEBSERVERDEV/WebserverDev_inetpub/dev1.interpret.co.nz/Speed_Demonstration/Map/js/gis/dijit/StreetView/templates/StreetView.html",
+		"/C/Users/hamish/Documents/WAB Template/WebAppBuilderForArcGIS/server/apps/2/themes/InterpretTheme/styles/grey/style.css",
+		"/C/Users/hamish/Documents/WAB Template/WebAppBuilderForArcGIS/client/stemapp/themes/InterpretTheme/widgets/HeaderController/config.json",
+		"/C/Users/hamish/Documents/WAB Template/WebAppBuilderForArcGIS/client/stemapp/themes/InterpretTheme/styles/black/style.css",
+		"/C/Users/hamish/Documents/WAB Template/WebAppBuilderForArcGIS/client/stemapp/themes/InterpretTheme/layouts/default/config.json",
+		"/C/Users/hamish/Documents/WAB Template/WebAppBuilderForArcGIS/client/stemapp/themes/InterpretTheme/nls/el/strings.js",
+		"/C/Users/hamish/Documents/WAB Template/WebAppBuilderForArcGIS/client/stemapp/themes/InterpretTheme/nls/strings.js",
+		"/C/Users/hamish/Documents/WAB Template/WebAppBuilderForArcGIS/client/stemapp/themes/InterpretTheme/layouts/layout4/config.json",
+		"/C/Users/hamish/Documents/WAB Template/WebAppBuilderForArcGIS/client/stemapp/themes/InterpretTheme/layouts/layout2/config.json",
+		"/C/Users/hamish/Documents/WAB Template/WebAppBuilderForArcGIS/client/stemapp/themes/InterpretTheme/manifest.json",
+		"/C/Users/hamish/Documents/WAB Template/InterpretTheme/manifest.json",
+		"/C/Users/hamish/Documents/WAB Template/WebAppBuilderForArcGIS/client/stemapp/themes/package.json",
+		"//WEBSERVERDEV/WebserverDev_inetpub/dev1.interpret.co.nz/NZTAJ066/FMEExcelUpload.html",
+		"//webserverprod/WebServerProd Inetpub/nzta.abley.com/Speed_Demonstration/Map/js/config/viewer.js",
+		"//webserverprod/WebServerProd Inetpub/nzta.abley.com/Speed_Demonstration/Map/js/config/basemaps.js",
+		"//webserverprod/WebServerProd Inetpub/nzta.abley.com/Speed_Demonstration_dev1/js/config/viewer.js",
+		"//WEBSERVERDEV/WebserverDev_inetpub/dev1.interpret.co.nz/NZTAJ066/hamish.html",
+		"//gondwana/Interpret Admin/0000 GIS Development/DevDay_BikeTracks/Elevations Profiles/profile.html",
+		"//WEBSERVERDEV/WebserverDev_inetpub/dev104.interpret.co.nz/ECAN/FME_Imagery/index.html",
+		"//WEBSERVERDEV/WebserverDev_inetpub/dev104.interpret.co.nz/NZTAJ066/FMEExcelUpload.html",
+		"//WEBSERVERDEV/WebserverDev_inetpub/dev1.interpret.co.nz/Speed_Demonstration/js/config/viewer.js",
+		"//webserverprod/tac.interpret.co.nz/crashviewer/configs/LocalLayer/Admin_layers_OLD.json",
+		"/C/Users/hamish/Documents/TAC-J001/GIS/WebAppBuilderForArcGIS2.0/server/apps/3/configs/LocalLayer/config_Local Layer Widget.json",
+		"//WEBSERVERDEV/WebserverDev_inetpub/dev104.interpret.co.nz/bustracking/index.html",
+		"//WEBSERVERDEV/WebserverDev_inetpub/maps.abley.com/AT_Internal/js/config/viewer.js",
+		"/C/Users/hamish/Documents/EC-J007 Depot Routing App_A/04 TripDistanceCalculator/arcgis-web-appbuilder-1.1/server/apps/6/widgets/TripDistanceCalculator/Widget.js",
+		"/C/Users/hamish/Documents/TAC-J001/GIS/WebAppBuilderForArcGIS2.0/server/apps/2/widgets/HeatMap/Widget.js",
+		"/C/Users/hamish/Documents/Bus Tracking/server/apps/2/configs/Anvil/config_Anvil.json",
+		"/C/Users/hamish/Documents/Bus Tracking/server/apps/2/widgets/Anvil/config.json",
+		"/C/Users/hamish/Documents/NZP-J008/server/apps/2/widgets/Comments/Widget.js",
+		"/C/Users/hamish/Documents/Bus Tracking/server/apps/2/jimu.js/tests/test-dijit.html",
+		"/C/Users/hamish/Documents/Bus Tracking/server/apps/2/jimu.js/dijit/SpatialFilterByFeatures.js",
+		"/C/Users/hamish/Documents/Bus Tracking/server/apps/2/jimu.js/dijit/ImageChooser.js",
+		"/C/Users/hamish/Documents/Bus Tracking/server/apps/2/jimu.js/dijit/_CropImage.js",
+		"/C/Users/hamish/Documents/TAC-J001/GIS/WebAppBuilderForArcGIS2.0/server/apps/2/widgets/HeatMap/Widget.html",
+		"//RODINIA/dev104.interpret.co.nz/bustracking/index.html",
+		"//webserverprod/tac.interpret.co.nz/Home/index.html",
+		"//rodinia/maps.abley.com/Northland/RiskMapping/js/config/viewer.js",
+		"//RODINIA/dev104.interpret.co.nz/TAC/JS/list.min.js",
+		"//RODINIA/dev104.interpret.co.nz/TAC/JS/list.js",
+		"//RODINIA/dev104.interpret.co.nz/TAC/index.html",
+		"//RODINIA/dev104.interpret.co.nz/TAC/styles.css",
+		"/C/Users/hamish/AppData/Roaming/Sublime Text 3/Packages/CSS/Completion Rules.tmPreferences",
+		"/C/Users/hamish/AppData/Roaming/Sublime Text 3/Packages/CSS/css_completions.py",
+		"/C/Users/hamish/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+			"C:\\Users\\hamish\\Desktop\\NCTIR\\WebAppBuilderForArcGIS\\server\\apps\\4",
+			"C:\\Users\\hamish\\Documents\\TAC-J001\\GIS\\WebAppBuilderForArcGIS\\server\\apps\\7",
+			"\\\\webserverprod\\WebServerProd Inetpub\\enl.interpret.co.nz\\AsBuilter",
+			"\\\\webserverprod\\WebServerProd Inetpub\\nzta.abley.com\\Speed_Demonstration\\Map",
+			"C:\\Users\\hamish\\Documents\\WAB Template\\WebAppBuilderForArcGIS\\client\\stemapp\\themes\\InterpretTheme",
+			"\\\\webserverprod\\WebServerProd Inetpub\\nzta.abley.com\\Speed_Demonstration",
+			"\\\\WEBSERVERDEV\\WebserverDev_inetpub\\dev1.interpret.co.nz\\Speed_Demonstration\\Map\\js\\gis\\dijit\\Disclaimer",
+			"\\\\WEBSERVERDEV\\WebserverDev_inetpub\\maps.abley.com\\AT_Internal",
+			"\\\\WEBSERVERDEV\\WebserverDev_inetpub\\dev104.interpret.co.nz\\2015SC_Dev\\widgets",
+			"\\\\WEBSERVERDEV\\WebserverDev_inetpub\\dev104.interpret.co.nz\\2015SC_Dev",
+			"C:\\Users\\hamish\\Documents\\Bus Tracking",
+			"\\\\RODINIA\\dev104.interpret.co.nz\\bustracking",
+			"C:\\Users\\hamish\\Documents\\Bus Tracking",
+			"C:\\Users\\hamish\\Documents\\Bus Tracking\\server\\apps\\2",
+			"\\\\rodinia\\maps.abley.com\\Northland\\RiskMapping"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			", data",
+			"data",
+			"res",
+			"MB06",
+			"mb06",
+			"MB06",
+			");\n",
+			"\"/",
+			"numS",
+			"a0acbf",
+			"/* css for jimu-btn",
+			"jimu-btn",
+			"button",
+			"background-co",
+			"widgetChange",
+			"nzta",
+			"getDate",
+			"0",
+			"        heatmapFeatureLayer.on('resume', function(evt){\n            console.log('resume')\n        });",
+			"extentCount",
+			"queryCount",
+			"disp",
+			"defLayer",
+			"LocalLayer",
+			"local",
+			"url",
+			"gis.ecan",
+			"ecan",
+			"google",
+			"speed",
+			"More Info",
+			"subt",
+			"subtit",
+			"font",
+			"dfc623",
+			"default",
+			"black",
+			"Foldable Theme",
+			"FoldableTheme",
+			"HeaderController",
+			"FoldableTheme",
+			"fold",
+			"<!DOCTYPE html>\n<html>\n<head>\n\t<title>Upload Files Drag and Drop Example from FME Server Developer Playground</title>\n\t<!-- Styles for example -->\n\t<link rel=\"stylesheet\" href=\"styles.css\" type=\"text/css\" />\n\t<!-- Include FMEServer.js -->\n\t<script type=\"text/javascript\" src=\"FMEServer.js\"></script>\n</head>\n<body>\n\t<form id=\"example-form\">\n\t\t<label>File: </label>\n\t\t<input id=\"file\" type=\"file\" name=\"file\" /><br />\n\t\t<input type=\"button\" onclick=\"upload();\" value=\"Upload\" />\n\t</form>\n\n\t<script type=\"text/javascript\">\n\tvar repository, workspace, path, ProfileDetailId, session\n\n\t\twindow.onload = function() {\n\t\t\tFMEServer.init({\n\t\t\tserver : \"https://fme.interpret.co.nz\",\n\t\t\t\ttoken : \"613a77122fb1cedeefe1fde89d91dec7324d4991\"\n\t\t\t});\n\n\t\t\trepository = 'WebActivate'\n\t\t\tworkspace = \"hamish_Excel_To_DB.fmw\"\n\t\t\tProfileDetailId = \"1\"\n\n\t\t\tFMEServer.getSession( repository, workspace, setVars );\n\n\t\t}\n\n\t\tfunction upload() {\n\t\t\tvar fileInput = document.getElementById( \"file\" );\n\n\t\t\tFMEServer.dataUpload (repository, workspace, fileInput, session, uploadSuccess)\n\t\t}\n\n\t\tfunction uploadSuccess(result) { \n\t\t\ttempFolder = 'C:\\\\FMEServerShare\\\\resources\\\\system\\\\temp\\\\upload'\n\t\t\tfileName = document.getElementById( \"file\" ).value\n\t\t\tuploadLocation = [tempFolder, repository, workspace, session, fileName].join('\\\\')\n\n\t\t\tconsole.log(uploadLocation)\n\n\t\t\tparams = 'ProfileDetailId=' + ProfileDetailId +  '&SourceDataset_XLSXR=' + uploadLocation\n\n\t\t\tconsole.log('starting process')\n\t\t\tFMEServer.runDataStreaming( repository, workspace, params, showResults ) \n\n\t\t\tconsole.log('yussss')\n\t\t}\n\n\t\tfunction showResults (result) {\n\t\t\tconsole.log('ending process')\n\t\t\tprojectIDs = result\n\t\t\tconsole.log( projectIDs)\n\t\t\tconsole.log('yusssssssssssss')\n\t\t}\n\n\t\tfunction setVars( json ) {\n\t\t\tif( json.serviceResponse.files ) {\n\t\t\t\tsession = json.serviceResponse.session;\n\t\t\t\tpath = json.serviceResponse.files.folder[0].path;\n\t\t\t} else {\n\t\t\t\t//showResults( json );\n\t\t\t}\n\t\t}\n\n\t</script>\t\n</body>\n</html>",
+			"setVars",
+			"upload",
+			"resource",
+			"path",
+			"fileInput",
+			"session",
+			"generateOptions",
+			"buildOptions",
+			"http://ser",
+			"http",
+			"title",
+			"titleBar",
+			"Subodh.Dhakal@abley.com",
+			"abley.com",
+			"arcgisableymaps",
+			"ableyarcgis",
+			"layerGroup",
+			"dev3",
+			"\n\t",
+			"/>\n",
+			"showResults",
+			"API_key",
+			"jimu-appstate",
+			"appstate",
+			"jimu/dijit/Popup",
+			"jimu/dijit/Message",
+			"jimu",
+			"clear",
+			"map",
+			"        var featureCollection = {\n          \"layerDefinition\": null,\n          \"featureSet\": {\n            \"features\": [],\n            \"geometryType\": \"esriGeometryPoint\"\n          }\n        };\n        featureCollection.layerDefinition = {\n          \"geometryType\": \"esriGeometryPoint\",\n          \"objectIdField\": \"ObjectID\",\n          \"drawingInfo\": {\n            \"renderer\": {\n              \"type\": \"simple\",\n              \"symbol\": {\n                \"type\": \"esriPMS\",\n                \"url\": \"images/flickr.png\",\n                \"contentType\": \"image/png\",\n                \"width\": 15,\n                \"height\": 15\n              }\n            }\n          },\n          \"fields\": [{\n            \"name\": \"ObjectID\",\n            \"alias\": \"ObjectID\",\n            \"type\": \"esriFieldTypeOID\"\n          }, {\n            \"name\": \"description\",\n            \"alias\": \"Description\",\n            \"type\": \"esriFieldTypeString\"\n          }, {\n            \"name\": \"title\",\n            \"alias\": \"Title\",\n            \"type\": \"esriFieldTypeString\"\n          }]\n        };\n\n        //define a popup template\n        var popupTemplate = new PopupTemplate({\n          title: \"{title}\",\n          description: \"{description}\"\n        });\n\n        //create a feature layer based on the feature collection\n        featureLayer = new FeatureLayer(featureCollection, {\n          id: 'flickrLayer',\n          infoTemplate: popupTemplate\n        });\n\n        //associate the features with the popup on click\n        featureLayer.on(\"click\", function(evt) {\n          this.map.infoWindow.setFeatures([evt.graphic]);\n        });\n\n        map.on(\"layers-add-result\", function(results) {\n          requestPhotos();\n        });\n        //add the feature layer that contains the flickr photos to the map\n        map.addLayers([featureLayer]);\n\n      function requestPhotos() {\n        //get geotagged photos from flickr\n        //tags=flower&tagmode=all\n        var requestHandle = esriRequest({\n          url: \"https://api.flickr.com/services/feeds/geo?&format=json\",\n          callbackParamName: \"jsoncallback\"\n        });\n        requestHandle.then(requestSucceeded, requestFailed);\n      }\n\n      function requestSucceeded(response, io) {\n        //loop through the items and add to the feature layer\n        var features = [];\n        array.forEach(response.items, function(item) {\n          var attr = {};\n          attr[\"description\"] = item.description;\n          attr[\"title\"] = item.title ? item.title : \"Flickr Photo\";\n\n          var geometry = new Point(item);\n\n          var graphic = new Graphic(geometry);\n          graphic.setAttributes(attr);\n          features.push(graphic);\n        });\n\n        featureLayer.applyEdits(features, null, null);\n      }\n\n      function requestFailed(error) {\n        console.log('failed');\n      }",
+			"FeatureLayer",
+			"consentLoc",
+			"consentLoclayer",
+			"point",
+			"lang.",
+			"Message",
+			"jimu/dijit/Message",
+			"{0}",
+			"var lat = positionData[0].vehicle.position.latitude",
+			"url",
+			"http://maps.abley.com/arcgisableymaps/rest/services/NorthlandRC_RiskMapping",
+			"maps.abley.com",
+			"maps.abley.com/arcgisableymaps",
+			"\n\t",
+			"Kaikoura",
+			"depotLocs",
+			"Kaikoura",
+			"kaikoura",
+			"Ashburton",
+			"Kaikoura",
+			"30",
+			"height",
+			")",
+			"layout",
+			"LGATable",
+			"templater",
+			"Test Test"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"InterpretTheme"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "js/scripts.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2174,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2134,
+								2134
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/cobalt2.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ftpsync.settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3051,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								227,
+								227
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/cobalt2.tmTheme",
+							"syntax": "Packages/FTPSync/Settings.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "script.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "var mymap = L.map('mapid').setView([51.505, -0.09]",
+							"color_scheme": "Packages/User/Color Highlighter/themes/cobalt2.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11050,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8675,
+								8675
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/cobalt2.tmTheme",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3421.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4787,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								4787
+							]
+						],
+						"settings":
+						{
+							"auto_name": "{\"response\":{\"metaInfo\":{\"timestamp\":\"2017-07-28T2",
+							"color_scheme": "Packages/User/Color Highlighter/themes/cobalt2.tmTheme",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "index 2.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 921,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								665,
+								650
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/cobalt2.tmTheme",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.69811395202,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "govhack.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"\\\\RODINIA\\dev104.interpret.co.nz\\TAC\\prject.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 277.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
