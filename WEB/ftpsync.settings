@@ -4,10 +4,7 @@
 
 	"default": {
 
-		"host": "ftp.andrewdc.co.nz",
-		"username": "govhack@andrewdc.co.nz",  // or null for anonymous login
-		"password": "B0g3D25LJm",
-		"path": "/",
+
 
 		"upload_on_save": true, // set *false* if you do not want to upload on save!
 
